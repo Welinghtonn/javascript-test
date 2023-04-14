@@ -18,7 +18,6 @@ function pegarValores(){
  senha = document.getElementById('Senha').value;
  confirmar = document.getElementById('Confirma').value;
   if(email != "" || senha != "" || confirmar != ""){
-   document.write('Email: ' + email + 'Senha: ' + senha + 'Confirma: ' + confirmar)
     alert('GG')
         location.href = "./jogar.html"
   }
