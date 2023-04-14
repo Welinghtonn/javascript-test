@@ -1,0 +1,77 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+.logo{
+  background-color: lightblue;
+  border-radius: 10px;
+  margin-top: 2%;
+  margin-left: 38%;
+  margin-right: 38%;
+}
+.lol{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+.card-log{
+  background-color: lightblue;
+  margin-top: 3%;
+  border-radius: 10px;
+  margin-left: 33%;
+  margin-right: 33%;
+  padding: 3%;
+}
+.login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+.ema{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+.mail{
+  background-color: white;
+  border: 0;
+  border-radius: 5px;
+}
+.sen{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+.senh{
+  background-color: white;
+  border: 0;
+  border-radius: 5px;
+}
+.nao{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1%;
+  color: black;
+  font-size: 60%;
+}
+.regis{
+  color: #1E90FF;
+}
+.go{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8%;
+}
+input{
+  width: 250px;
+  height: 34px;
+  border: 0;
+}
