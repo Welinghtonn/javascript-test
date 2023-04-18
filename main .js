@@ -17,7 +17,8 @@ function pegarValores(){
  email = document.getElementById('Email').value;
  senha = document.getElementById('Senha').value;
  confirmar = document.getElementById('Confirma').value;
-  if(email != "" || senha != "" || confirmar != ""){
+  console.log(email, senha, confirmar);
+  if(email != "" && senha != "" && confirmar != ""){
     alert('GG')
         location.href = "./jogar.html"
   }
